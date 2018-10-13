@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Ashwin Kolla"
 title_separator          : "-"
 name                     : "Ashwin Kolla"
-description              : "Portfolio."
+description              : "Projects"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ashwin"
-  avatar           : "/images/Headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Portfolio."
+  name             : "Ashwin Kolla"
+  avatar           : "/images/Profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Some of my work"
   location         : "Minneapolis, MN"
-  email            :
+  email            : "kolla052@umn.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -120,10 +120,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ashwinkolla"
+      url: "https://github.com/NickRou"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ashwin-kolla-12557914a"
+      url: "https://www.linkedin.com/in/ashwinkolla/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
