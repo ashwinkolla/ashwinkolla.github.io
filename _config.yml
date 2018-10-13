@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashwin Kolla"
-  avatar           : "/images/Profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Profile.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Some of my work"
   location         : "Minneapolis, MN"
   email            : "kolla052@umn.edu"
