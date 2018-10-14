@@ -128,7 +128,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Resume"
-      icon: "fas fa-file"
+      icon: "far fa-file"
       url: "/downloads/Resume.pdf"
 
 # Site Footer
